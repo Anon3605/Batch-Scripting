@@ -1,0 +1,4 @@
+@vol
+@ver
+@echo
+set
